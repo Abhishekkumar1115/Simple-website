@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Spark",
+  "description": "A clean, fast, and multimodal AI chat interface powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
